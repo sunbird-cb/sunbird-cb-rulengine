@@ -8,3 +8,5 @@ Overview of the Rule Engine
 
 
 Core Components of the Rule Engine
+
+![Core Components](/docs/images/Components.png)
